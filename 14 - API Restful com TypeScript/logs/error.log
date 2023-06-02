@@ -1,0 +1,17 @@
+2023-06-01 12:07:49:749 - [31merror[39m: [31mNão foi possivel a conexão ao banco de dados[39m
+2023-06-01 12:07:49:749 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.q6ksz0.mongodb.net[39m
+2023-06-01 12:09:25:925 - [31merror[39m: [31mNão foi possivel a conexão ao banco de dados[39m
+2023-06-01 18:46:12:4612 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:47:40:4740 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:49:30:4930 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:52:16:5216 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:54:46:5446 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:58:35:5835 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:14:54:1454 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:17:59:1759 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:18:26:1826 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:20:00:200 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:20:17:2017 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:25:25:2525 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:26:42:2642 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:35:39:3539 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m

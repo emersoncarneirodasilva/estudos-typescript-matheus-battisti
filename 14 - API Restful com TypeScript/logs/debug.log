@@ -1,0 +1,161 @@
+2023-06-01 12:02:31:231 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:02:55:255 - [34minfo[39m: [34mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:03:02:32 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:04:16:416 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:04:16:416 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:04:56:456 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:04:56:456 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:06:02:62 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:06:02:62 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:06:47:647 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:06:47:647 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:07:28:728 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:07:28:728 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:07:40:740 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:07:40:740 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:07:49:749 - [31merror[39m: [31mNão foi possivel a conexão ao banco de dados[39m
+2023-06-01 12:07:49:749 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.q6ksz0.mongodb.net[39m
+2023-06-01 12:07:49:749 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:08:07:87 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:08:07:87 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:09:04:94 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:09:04:94 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:09:25:925 - [31merror[39m: [31mNão foi possivel a conexão ao banco de dados[39m
+2023-06-01 12:09:42:942 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:09:42:942 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:27:07:277 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:27:07:277 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:27:12:2712 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:27:12:2712 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:27:44:2744 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:27:44:2744 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:28:17:2817 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:28:17:2817 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:29:08:298 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:29:08:298 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:29:44:2944 - [35mhttp[39m: [35mGET /api/test 200 16 - 3.653 ms[39m
+[35m[39m
+2023-06-01 12:40:10:4010 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:40:11:4011 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:40:35:4035 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 12:40:35:4035 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 12:43:16:4316 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 4.071 ms[39m
+[35m[39m
+2023-06-01 18:39:10:3910 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 18:39:10:3910 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 18:42:58:4258 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 18:42:58:4258 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 18:43:59:4359 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 18:43:59:4359 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 18:44:20:4420 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 18:44:20:4420 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 18:46:12:4612 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:46:26:4626 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 18:47:40:4740 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:48:08:488 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 18:49:30:4930 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:49:40:4940 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 18:50:44:5044 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 18:50:44:5044 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 18:50:48:5048 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:51:08:518 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 18:51:32:5132 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 18:51:32:5132 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 18:51:38:5138 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:52:14:5214 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 18:52:14:5214 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 18:52:16:5216 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:52:29:5229 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 18:54:46:5446 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:55:01:551 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 18:58:01:581 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 18:58:01:581 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 18:58:35:5835 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 18:58:54:5854 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 19:09:14:914 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:09:14:914 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:09:27:927 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:09:27:927 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:09:51:951 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:09:51:951 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:11:33:1133 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 5.586 ms[39m
+[35m[39m
+2023-06-01 19:12:28:1228 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:12:28:1228 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:12:34:1234 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:12:34:1234 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:12:39:1239 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:12:39:1239 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:14:54:1454 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:15:17:1517 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 19:17:46:1746 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:17:46:1746 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:17:59:1759 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:18:24:1824 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 19:18:26:1826 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:19:30:1930 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 19:20:00:200 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:20:05:205 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 19:20:17:2017 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:20:48:2048 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 19:24:37:2437 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:24:37:2437 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:24:48:2448 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:25:02:252 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 19:25:05:255 - [32minfo[39m: [32mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:25:24:2524 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:25:24:2524 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:25:25:2525 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:25:39:2539 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:25:39:2539 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:26:26:2626 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:26:26:2626 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:26:42:2642 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:27:03:273 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 19:35:26:3526 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:35:26:3526 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:35:39:3539 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-06-01 19:35:46:3546 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-06-01 19:50:51:5051 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:50:51:5051 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:51:32:5132 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:51:32:5132 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:53:11:5311 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:53:11:5311 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 19:54:48:5448 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 19:54:48:5448 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:01:30:130 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:01:30:130 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:01:45:145 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:01:45:145 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:02:01:21 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:02:01:21 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:02:15:215 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:02:15:215 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:02:38:238 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:02:38:238 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:02:52:252 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:02:52:252 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:02:56:256 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:02:57:257 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:03:06:36 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:03:06:36 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:07:52:752 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:07:52:752 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-06-01 20:08:51:851 - [32minfo[39m: [32mConexão ao banco de dado realizada com sucesso![39m
+2023-06-01 20:08:51:851 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
